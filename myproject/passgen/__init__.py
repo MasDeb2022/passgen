@@ -1,1 +1,0 @@
-from passgen.main import *
