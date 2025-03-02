@@ -13,3 +13,5 @@ You can also choose its length by typing:
 pw = passgen(30)
 ```
 in the code, and program will generate you a password with a length of e.g. 30 symbols.
+
+But by default, a generated password has 15 symbols.
